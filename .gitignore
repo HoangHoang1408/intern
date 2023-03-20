@@ -1,1 +1,3 @@
-./data/*
+*/data
+1 NGram Models/data
+2 Word2Vec/data
